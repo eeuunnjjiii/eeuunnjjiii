@@ -1,11 +1,11 @@
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=D1C4E9&height=100&section=header&text=EunjiJeong%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=D1C4E9&height=100&section=header&text=EunjiJeong%20&fontSize=50&fontColor=9B7DFD)
 
 ###   🌱 Jr.Data Analyst 
 <a href="https://rare-troodon-9a1.notion.site/Jr-Data-Analysis-a2953f0b08b44eeeb4b5d1f0c2dddc70">
     <img 
-        src="https://img.shields.io/badge/-RESUME-blueviolet?style=flat-square&link=https://rare-troodon-9a1.notion.site/Jr-Data-Analysis-a2953f0b08b44eeeb4b5d1f0c2dddc70"
+        src="https://img.shields.io/badge/-RESUME-9B7DFD?style=flat-square&link=https://rare-troodon-9a1.notion.site/Jr-Data-Analysis-a2953f0b08b44eeeb4b5d1f0c2dddc70"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
@@ -19,7 +19,7 @@
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B769FB&title_bg=%23555555&icon=&icon_color=%239B7DFD&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feeuunnjjiii&count_bg=%239B7DFD&title_bg=%23555555&icon=&icon_color=%239B7DFD&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
 <!--
