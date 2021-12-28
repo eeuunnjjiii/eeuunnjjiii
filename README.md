@@ -2,26 +2,12 @@
     
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=D1C4E9&height=100&section=header&text=EunjiJeong%20&fontSize=50&fontColor=9B7DFD)
 
-###   🌱 Jr.Data Analyst 
-<a href="https://rare-troodon-9a1.notion.site/Jr-Data-Analysis-a2953f0b08b44eeeb4b5d1f0c2dddc70">
-    <img 
-        src="https://img.shields.io/badge/-RESUME-9B7DFD?style=flat-square&link=https://rare-troodon-9a1.notion.site/Jr-Data-Analysis-a2953f0b08b44eeeb4b5d1f0c2dddc70"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 ###  💻 Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-
 
 
 
